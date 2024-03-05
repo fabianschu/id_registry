@@ -1,0 +1,9 @@
+[package]
+name = "identity_registry"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.19.3"
+
+[dependencies]
+smt_bn254 = { path = "../smt_bn254" }
+
