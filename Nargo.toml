@@ -1,0 +1,7 @@
+[package]
+name = "identity_registry"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.23.0"
+
+[dependencies]
